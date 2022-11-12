@@ -3315,7 +3315,7 @@
 
   (footprint "acheron_Connectors:SM04B-SRSS-TB(LF)(SN)" (layer "B.Cu")
     (tedit 5E92E3F9) (tstamp 2d42ec2a-fffa-4b9b-a31c-f7c4c824152f)
-    (at 210.693 53.955)
+    (at 189.865 72.37)
     (property "Sheetfile" "unnamed-arisu52.kicad_sch")
     (property "Sheetname" "")
     (path "/5de35be3-9859-4f68-b222-48c5b91286a4")

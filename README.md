@@ -1,0 +1,14 @@
+# What is this ?
+This project is a alice style (since it has arrow keys its an arisu) 54 percent keyboard. Layout is most likely final because i don't really feel like changing it.
+
+# Changes I would like to make in another revision
+Throughout the design process of making a keyboard i find things that I find that would make things easier or would be cool feature. However it would be difficult to impliment half-way through a project. Here are some of the things i would like to implement
+
+* Duplex matrix, [See here](https://kbd.news/pic/article/1391/keyboard-matrix-japanese-duplex-3x4.png)
+    
+    Something I saw on ai03's keyboard guide, it seemed interesting and a neat little challenge, also uses less pins and makes routing to the mcu easier while making routing the matrix harder.
+
+* Internally split keyboard
+    
+    To have two seperate pcbs mounted on the inside of the keyboard, allowing for a softer typing experience, perhaps a daughter board that connects both boards and is the usb ports.
+        
