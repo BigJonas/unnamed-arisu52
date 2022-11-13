@@ -15,7 +15,3 @@ Throughout the design process of making a keyboard i find things that I find tha
 * Flex cuts
     
    Although Im not too confident in the flex cuts being needed some small flex cuts would be nice. This could compliment the stiffness of some stiffer materials I plan to use on the plate
-
-* PCB mounted version
-
-    This would come later in the process once I have the case and plate designed but I would like to have a version where it is just the pcb.
